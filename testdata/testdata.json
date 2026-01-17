@@ -1,0 +1,24 @@
+{
+  "applicationUrl": "https://rahulshettyacademy.com/client/#/auth/login",
+  "loginCredentials": {
+    "email": "ananya.automation@learning.com",
+    "password": "Ananya@123"
+  },
+  "paymentDetails": {
+    "cvv": "456",
+    "cardholderName": "Ananya Patnaik"
+  },
+  "couponCode": "rahulshettyacademy",
+  "country": "India",
+  "products": {
+    "zaraCoat": "ZARA COAT 3",
+    "iPhone": "iphone 13 pro"
+  },
+  "expectedMessages": {
+    "productAddedToCart": "Product Added To Cart",
+    "couponApplied": "* Coupon Applied",
+    "orderConfirmation": "Thankyou for the order.",
+    "orderDeleted": "Orders Deleted Successfully"
+  },
+  "orderConfirmationProduct": "ZARA COAT"
+}
